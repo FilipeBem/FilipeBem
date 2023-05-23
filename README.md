@@ -1,4 +1,4 @@
-### My Name is Filipe Bem 👋
+### My Name is Filipe Bem ⚡
 
 <!--
 **FilipeBem/FilipeBem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 <a href="https://developer.mozilla.org/en-US/search?q=CSS3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
 
-### stats
-
+### statistic
 <a href="http://www.github.com/FilipeBem"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FilipeBem&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="http://www.github.com/FilipeBem"><img src="https://github-readme-stats.vercel.app/api?username=FilipeBem&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/FilipeBem)" /></a>
 <a href="https://github.com/FilipeBem" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeBem&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24&background=171717&ring=3382ed)](https://github.com/FilipeBem)" /></a>
