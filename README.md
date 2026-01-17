@@ -26,7 +26,3 @@ Here are some ideas to get you started:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
  </p>
 
-### statistic
-<a href="http://www.github.com/FilipeBem"><img src="https://github-readme-stats.vercel.app/api?username=FilipeBem&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/FilipeBem)" /></a> 
-<a href="https://github.com/FilipeBem" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeBem&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24&background=171717&ring=3382ed)](https://github.com/FilipeBem)" /></a> 
-
