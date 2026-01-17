@@ -27,5 +27,6 @@ Here are some ideas to get you started:
  </p>
 
 ### statistic
-<a href="https://github.com/FilipeBem/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FilipeBem&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true" alt="FilipeBem github stats" /></a>  <a href="https://github.com/FilipeBem/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeBem&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24&background=171717&ring=3382ed" /></a> 
+<a href="http://www.github.com/FilipeBem"><img src="https://github-readme-stats.vercel.app/api?username=FilipeBem&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/FilipeBem)" /></a> 
+<a href="https://github.com/FilipeBem" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeBem&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24&background=171717&ring=3382ed)](https://github.com/FilipeBem)" /></a> 
 
